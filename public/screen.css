@@ -54,4 +54,19 @@ form {
 
 label {
   color: #fff;
+  margin: 0.5rem 0;
+}
+
+input {
+  border-radius: 0.25rem;
+}
+
+textarea {
+  width: 18rem;
+}
+
+#submit {
+  width: 18.35rem;
+  margin-left: 1rem;
+  border:none;
 }
